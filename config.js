@@ -1,43 +1,43 @@
 //=============『 Utama 』================== //
-global.owner = ['6287784720840','6287784720840'] 
+global.owner = ['6285822347348','6285822347348'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Fiqz Cuy'
-global.numberowner = '6287784720840'
-global.instagram = 'https://www.instagram.com/jokowi'
+global.nameowner = 'Arull'
+global.numberowner = '6285822347348'
+global.instagram = 'https://www.instagram.com/sahrulwara_____'
 global.github = '-'
-global.dana = '-'
-global.pulsa = '-'
+global.dana = '085822347348'
+global.pulsa = '085822347348'
 global.ovo = '-'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Shikimori'
-global.gc = '-'
-global.web = '-' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'ArullBotz'
+global.gc = 'https://chat.whatsapp.com/ItwCvXL02hg11U5qNaLSBe'
+global.web = 'https://chat.whatsapp.com/ItwCvXL02hg11U5qNaLSBe' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://i.postimg.cc/nL4X9Wjz/Picsart-22-08-04-13-19-11-727.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://i.postimg.cc/nL4X9Wjz/Picsart-22-08-04-13-19-11-727.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/0a369a5e6a785e6e7858a.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/0a369a5e6a785e6e7858a.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'Shikimori'
+global.wm = 'ArullBotz'
 global.watermark = wm
-global.wm2 = '                     「 Shiki Mori 」 '
-global.wm3 = 'Fiqz Cuy'
+global.wm2 = '                     「 ArullBotz 」 '
+global.wm3 = 'ArullBotz'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://i.postimg.cc/nL4X9Wjz/Picsart-22-08-04-13-19-11-727.jpg'
+global.media = 'https://telegra.ph/file/0a369a5e6a785e6e7858a.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = 'Process...'
 global.eror = 'ERROR'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stickers In Making...'
-global.packname = 'Fiqz Cuy'
-global.author = '@6283876786535⁩⁩'
+global.packname = 'ArullBotz'
+global.author = 'Whatshap Bot'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
