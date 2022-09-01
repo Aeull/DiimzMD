@@ -483,7 +483,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             hydratedFooterText: wm2, 
             hydratedButtons: [{
             urlButton: {
-               displayText: 'ʏᴏᴜᴛᴜʙᴇ ᴅɪɪᴍᴢ',
+               displayText: 'ʏᴏᴜᴛᴜʙᴇ',
                url: web
              }
 
