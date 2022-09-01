@@ -43,7 +43,7 @@ wa.me/${owner[0]}
   jpegThumbnail: baper },
   businessOwnerJid: `6281270120658@s.whatsapp.net`
   },
-  footerText: '©Diimz Official',
+  footerText: '©Arull',
   }},{})
   conn.relayMessage(prepare.key.remoteJid,prepare.message,{messageId:prepare.key.id})
   conn.sendContact(m.chat, numberowner, nameowner, m)
