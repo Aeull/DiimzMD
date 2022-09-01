@@ -719,7 +719,7 @@ module.exports = {
                         } finally {
                             text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'Hi New Member,Welcome To').replace('@subject', groupMetadata.subject).replace('@desc', groupMetadata.desc.toString()) :
                                 (chat.sBye || this.bye || conn.bye || 'Sip, Beban Berkurang 1'))
-                                this.sendButtonImg(id, pp, text, "Diimz Bot", "Ok", "wkwk", null)
+                                this.sendButtonImg(id, pp, text, "ArullBotz", "Menu", ".menu", null)
                                 }
                     }
                 }
