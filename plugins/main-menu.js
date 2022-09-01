@@ -268,7 +268,7 @@ const fdoc = {
 if (teks == '404') {
 let menuu = `┏━━━ ﹝𝔹𝕆𝕋 𝕀ℕ𝔽𝕆﹞ ━━⚀︎
 ┠ 💻𝙊𝙬𝙣𝙚𝙧 ➨ ${global.nameowner}
-┠ 👤𝘾𝙧𝙚𝙖𝙩𝙤𝙧 ➨ Diimz Official
+┠ 👤𝘾𝙧𝙚𝙖𝙩𝙤𝙧 ➨ ArullOfc
 ┠ 🤖𝘽𝙤𝙩 𝙉𝙖𝙢𝙚 ➨ ${global.namebot}
 ┠ 🔱𝙈𝙤𝙙𝙚 ➨ ${global.opts['self'] ? 'Self' : 'Publik'}
 ┠ ⏲️𝙍𝙪𝙣𝙩𝙞𝙢𝙚 ➨ ${uptime}
@@ -280,7 +280,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             description: menuu,
             buttonText: '⌜ᴘɪʟɪʜ ᴍᴇɴᴜ⌟',
             listType: 1,
-            footerText: "𝚂𝙸𝙻𝙰𝙷𝙺𝙰𝙽 𝙿𝙸𝙻𝙸𝙷 𝙼𝙴𝙽𝚄 𝙳𝙸 𝙱𝙰𝚆𝙰𝙷",
+            footerText: "𝐂𝐫𝐞𝐚𝐭𝐨𝐫 𝐁𝐲 𝐀𝐫𝐮𝐥𝐥",
             mtype: 'listMessage',
             sections: [
               {
