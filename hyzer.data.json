@@ -395,8 +395,8 @@
               },
               "BbZaYvqaxfgQ4XDM0Mok11sWwsQfEkwv8V2cwNsdj5w7": {
                 "chainKey": {
-                  "counter": 0,
-                  "key": "5j/6GSWL7jr7Bq0l1F6hdfSEHrC7YtQcwb4qgWiSFbI="
+                  "counter": -1,
+                  "key": "635IwBXV5dqhnVv8lD+YrqBG/dbLLRLphf8OjOox7fg="
                 },
                 "chainType": 1,
                 "messageKeys": {}
@@ -405,58 +405,6 @@
           }
         },
         "version": "v1"
-      }
-    },
-    "appStateSyncKeys": {
-      "AAAAAKv4": {
-        "keyData": "/hxOwwXOVEUB3+/ZDNQuvAWc/Be0xc86DimGStLMWCk=",
-        "fingerprint": {
-          "rawId": 423910933,
-          "currentIndex": 1,
-          "deviceIndexes": [
-            0,
-            1
-          ]
-        },
-        "timestamp": "1660609122511"
-      }
-    },
-    "appStateVersions": {
-      "critical_block": {
-        "version": 1,
-        "hash": {
-          "type": "Buffer",
-          "data": "XwvziAQOnVH8+crLdw6ZB6v0hgk8r2LiMjjPbOJmxnMmq8kXC4GGqAZyuAFfYQODUoGIGl2o9Pd53b7owlHxOzmFpG5MURXxcgtf6Q3e62KYr9YO6n5JIUp1M/M4I0wODSciFjYt0KGqsfbYLiNr75zDvdycG/pfrimPMxi48e8="
-        },
-        "indexValueMap": {
-          "exiyyfnTg6n5hcQmEO7R9bN6BlWzCIfQ9DxXaFiQL70=": {
-            "valueMac": {
-              "type": "Buffer",
-              "data": "KB26yqkIjA0FN9SWE14kAmL3n6MlHi+llAfvLeVuIWw="
-            }
-          },
-          "B1ZWrM212AMWSiTd1VLcz9ZZmSA7WrpSMnf3LUK8tys=": {
-            "valueMac": {
-              "type": "Buffer",
-              "data": "ozIeJj7hgxugzFKX7yAmjRJUiYd1nrUDL3RYcTXNsfw="
-            }
-          }
-        }
-      },
-      "regular": {
-        "version": 1,
-        "hash": {
-          "type": "Buffer",
-          "data": "D7PtF8JBIyCVEdiX6hCbyrT0MwoEjwuNyaiqY2ht9kEuHTQ0grry4BwIKYNcnQp7UYSOjpuVlsSALcvd+ES2pr1J9tM8L3wNu0FoOTsFtrUf8YaeiqfAagLEhtJmZcCjX6/GmfFVQLXbh8keSCN9ICRDtWx9q3yogRkju3T62qs="
-        },
-        "indexValueMap": {
-          "LCuasy93NB09ggU53lLZ1oN+p8iPchsAZl8Yp3SLp70=": {
-            "valueMac": {
-              "type": "Buffer",
-              "data": "dANSckRN6zKsfNpnlNhb0Bxw6w+BN2UNGdS4j27DJRA="
-            }
-          }
-        }
       }
     }
   }
